@@ -49,6 +49,7 @@
 		7FDBD4CF1D2167CE00089053 /* CoreDataMigrationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataMigrationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FDBD4D31D2167CE00089053 /* CoreDataMigrationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataMigrationUITests.swift; sourceTree = "<group>"; };
 		7FDBD4D51D2167CE00089053 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FDBD4E11D216AB200089053 /* CoreDataMigration 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "CoreDataMigration 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -509,6 +510,7 @@
 		7FDBD4B71D2167CD00089053 /* CoreDataMigration.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				7FDBD4E11D216AB200089053 /* CoreDataMigration 2.xcdatamodel */,
 				7FDBD4B81D2167CD00089053 /* CoreDataMigration.xcdatamodel */,
 			);
 			currentVersion = 7FDBD4B81D2167CD00089053 /* CoreDataMigration.xcdatamodel */;
